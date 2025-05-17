@@ -10,7 +10,7 @@ Just completed a deep-dive Exploratory Data Analysis (EDA) project on the Google
 🎯 Problem Statement:
 
   Today, millions of apps shape how we live. This project dives into real Play Store data to:
-  
+
   🔍 Identify the most popular categories
   
   📈 Find the app with the highest installs
@@ -18,17 +18,19 @@ Just completed a deep-dive Exploratory Data Analysis (EDA) project on the Google
   ⭐ Discover which apps earn the highest user ratings
 
 🔍 What I covered:
-  📲 Free apps dominate, but paid apps slightly edge out in average ratings
-  
-  🏆 Categories like Games and Tools top the charts in volume — but not necessarily in ratings
-  
-  📥 App install count is more tied to marketing than to rating or size
-  
-  📊 App size has little impact on user experience (surprising!)
-  
-  ⭐ Some low-rated apps had millions of installs – proving that popularity ≠ quality
+
+    📲 Free apps dominate, but paid apps slightly edge out in average ratings
+    
+    🏆 Categories like Games and Tools top the charts in volume — but not necessarily in ratings
+    
+    📥 App install count is more tied to marketing than to rating or size
+    
+    📊 App size has little impact on user experience (surprising!)
+    
+    ⭐ Some low-rated apps had millions of installs – proving that popularity ≠ quality
 
 🛠️ Tech Stack & Tools:
+
     1. Python 🐍
   
     2. Pandas, NumPy
